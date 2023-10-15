@@ -1,0 +1,54 @@
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    height: 300px;
+    overflow: auto;
+}
+
+/* Style for chat messages (flexbox is not used for this) */
+.message {
+    background: #007bff;
+    color: rgb(6, 6, 6);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+.user-message {
+    background: #9cf99f;
+}
+
+.bot-message {
+    background: #f1f1f1;
+    text-align: right;
+}
+
+/* Style for the input and send button using flexbox */
+.chat-input {
+    display: flex;
+    flex-direction: row;
+    width:80%;
+}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
