@@ -255,6 +255,18 @@
         {
             "question": "who is daniel garcia cortes",
             "answer": "Daniel Garcia Cortes is my creator."
+        },
+        {
+            "question": "Hey!",
+            "answer": "Hello! "
+        },
+        {
+            "question": "hello",
+            "answer": "hey, how can I help you?"
+        },
+        {
+            "question": "hi",
+            "answer": "Hello, how can I help you today?"
         }
     ]
 }
