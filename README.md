@@ -3,30 +3,33 @@
 A simple Python chat bot that learns and responds based on user input. The bot uses a knowledge base stored in a JSON file.
 ## Image
 
-![Bot Image](bot.png)
+![Bot Image](/img/bot.png)
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Python](https://www.python.org/downloads/) installed on your machine
+[Python](https://www.python.org/downloads/) installed on your machine
 
 ### Installation
 
 1. Clone the repository:
 
-    ```bash
-git clone https://github.com/your-username/ChatBotPython.git
-    
+    ```bash git clone https://github.com/your-username/ChatBotPython.git
+     ```
 
-    Navigate to the ChatBotPython directory:
+   
+2.  Navigate to the ChatBotPython directory:
+
   
  ```bash
    cd ChatBotPython
+   ```
 
-```
 
-    Now you're ready to run and interact with the chat bot!
+
+    
+3.  Now you're ready to run and interact with the chat bot!
 
 ```bash
 
