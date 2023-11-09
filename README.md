@@ -17,7 +17,7 @@ A simple Python chat bot that learns and responds based on user input. The bot u
 
 ```bash 
     git clone https://github.com/''your-username''/ChatBotPython.git
-     ```
+```
 
    
 2.  Navigate to the ChatBotPython directory:
